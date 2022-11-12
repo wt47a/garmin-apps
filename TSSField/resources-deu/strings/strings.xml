@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">TSSField</string>
+    <string id="UserFTP">FTP</string>
+    <string id="UserFTPPrompt">Geben Sie FTP ein</string>
+    <string id="TSSFieldLabel">TSS</string>
+</strings>
